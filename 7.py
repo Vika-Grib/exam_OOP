@@ -48,4 +48,4 @@ print()
 
 print(a.strenght)
 a.eduit_strenght(20)
-print(a.strenght)
+print(a.strenght) # к методу напрямую чтобы распечатать, т.к. в самом классе АЛкоголь метода принт нет
